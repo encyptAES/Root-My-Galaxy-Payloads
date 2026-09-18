@@ -220,15 +220,15 @@
       "models": ["SM-X400"],
       "kernelVersions": ["5.15.189"],
       "exploit": {
-        "url": "https://raw.githubusercontent.com/encyptAES/Root-My-Galaxy-Payloads/main/artifacts/essi-X400XXS6CZG3/cve-2026-43499-app.so",
+        "url": "https://raw.githubusercontent.com/encyptAES/Root-My-Galaxy-Payloads/a54x/artifacts/essi-X400XXS6CZG3/cve-2026-43499-app.so",
         "size": 104128
       },
       "kernelsu": {
-        "url": "https://raw.githubusercontent.com/encyptAES/Root-My-Galaxy-Payloads/main/kernelsu/ksud-essi-X400XXS6CZG3-kdp",
+        "url": "https://raw.githubusercontent.com/encyptAES/Root-My-Galaxy-Payloads/a54x/kernelsu/ksud-essi-X400XXS6CZG3-kdp",
         "size": 3828432
       },
       "kernelsu-next": {
-        "url": "https://raw.githubusercontent.com/encyptAES/Root-My-Galaxy-Payloads/main/kernelsu/ksud-next-essi-X400XXS6CZG3-kdp",
+        "url": "https://raw.githubusercontent.com/encyptAES/Root-My-Galaxy-Payloads/a54x/kernelsu/ksud-next-essi-X400XXS6CZG3-kdp",
         "size": 4083520
       }
     }
